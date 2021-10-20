@@ -80,4 +80,5 @@
             </plugin>
         </plugins>
     </build>
+    <name>InterfazGraf_Para_Esfera</name>
 </project>
